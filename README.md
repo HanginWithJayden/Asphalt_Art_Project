@@ -28,12 +28,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project, in detail, is a character from the game Fortnite: Toona Fish. He is my main skin in the game and I edited him to look like an avatar I made. I had in feature in my PBL last year, but ended up scrapping it. I took the concept art for his character and adjusted it to the 16x16 art.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things I am proud of about my project is that one, I was able to finish the coding before the due date even though I couldn't figure out while loops and if/else statements. Secondly, I'm proud of being able to replicate my digital art so well, while only using simple methods. It was fun recreating my character, and I'm glad I was able to get it done.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - One thing I would completely do differently is change the code to use if/else statements and while loop so that the code is much more smaller. My background and character painters had like 500+ code in it, and it could be way smaller with those. If only I could figure out how to use them correctly.
